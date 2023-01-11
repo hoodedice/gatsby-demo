@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Air Jordan 1 Mid",
+    "special": "Just In",
+    "image": "./images/products/nike1.png",
+    "category": "Shoes",
+    "price": "$125"
+  },
+  {
+    "name": "Air Jordan 1 Mid",
+    "special": "Just In",
+    "image": "./images/products/nike2.png",
+    "category": "Men's Shoes",
+    "price": "$125"
+  },
+  {
+    "name": "Nike Pegasus 39",
+    "special": "Just In",
+    "image": "./images/products/nike3.png",
+    "category": "Men's Road Running Shoes",
+    "price": "$130"
+  },
+  {
+    "name": "Nike Air Zoom G.T. Cut 2",
+    "image": "./images/products/nike4.png",
+    "category": "Basketball Shoes",
+    "price": "$170"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 39",
+    "special": "Just In",
+    "image": "./images/products/nike5.png",
+    "category": "Men's Road Running Shoes",
+    "price": "$135"
+  }
+]
